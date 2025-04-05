@@ -1,5 +1,9 @@
 #lang sicp 
 
+;Captulo 1 - Expresiones
+;Ejercicio 1.1
+;Evaluar expresiones con RPL
+
 ;Expresion 1
 10
 ;Expresion 2
